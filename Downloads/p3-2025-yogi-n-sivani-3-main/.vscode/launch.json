@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yogeshvarreddykallam/Desktop/p3-2025-yogi-n-sivani-3-main",
+      "program": "/Users/yogeshvarreddykallam/Desktop/p3-2025-yogi-n-sivani-3-main/build/Debug/outDebug"
+    }
+  ]
+}
